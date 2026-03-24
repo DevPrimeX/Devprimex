@@ -1,5 +1,5 @@
-<h1 align="center">Hi there<br>I'm NOOBGLITCH
- (Jidnyesh Patil) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi there<br>I'm DevPrimex
+ (Naresh Choyal) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <body>
 <br>
 <div align="center">
@@ -14,7 +14,7 @@
 <div>
 <img src="images/aboutme.gif" align="right" height = "210">
 <li>
-<b>Name: NOOBGLITCH</b<>
+<b>Name: Naresh Choyal</b<>
 <li>
 <b>Gender:</b>Male.
 </li>
@@ -23,10 +23,10 @@
 </li>
 <li>
 <b>Hobbies::</b> Tech Stuff, Web Development
-<li> I’m currently learning <b>Python & Go</b>
+<li> I’m currently learning <b>Python & Flutter</b>
 </li>
 <li>:dancing_men: I’m looking to collaborate on <b>Python Projects.</b>
-<li>:mailbox_with_mail: How to reach me <b>newbienoob@altmails.com<b>
+<li>:mailbox_with_mail: How to reach me <b>nareshchoyal86@email.com<b>
 </li>
 
 
