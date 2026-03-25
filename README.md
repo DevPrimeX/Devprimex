@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<br>I'm DevPrimex
- (Naresh Choyal) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+Aka (Naresh Choyal) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <body>
 <br>
 <div align="center">
@@ -49,13 +49,6 @@
 </div>
 
 <br>
-
-<h2>Linux shell 👨‍💻</h2>
-
-
-![Metrics](https://metrics.lecoq.io/NOOBGLITCH?template=terminal&projects=1&habits=1&sponsorships=1&sponsors=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FCalcutta&config.octicon=true)
-
-
                                   
 <h2> My GitHub Stats :bar_chart:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=NOOBGLITCH&theme=onedark" alt="techshreyash" /></a> </p>
@@ -67,13 +60,11 @@
 <h2 align ="center">:memo: Contact me :memo:</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/NEWBIENOOB-0" target="_blank">
+<a href="https://github.com/Devprimex" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/NEWBIENOOBO" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://telegram.dog/newbienoobbot" target="_blank">
+
+<a href="https://telegram.dog/Devprimex" target="_blank">
 <img src=	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 
 </a>  <br><img src = "images/contactme.gif" height = "230"/>
